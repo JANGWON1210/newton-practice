@@ -40,4 +40,5 @@ if __name__ == "__main__":
     
     print(x_min, f_min)
     print("version 2")
+    print("exerciseing_PR")
 
