@@ -20,7 +20,7 @@ def newton_mine(x0, func, tol=1e-6, max_iter=1000):
     count_iter =0
     
     
-    while(count_iter < 10):
+    while(count_iter < max_iter):
         f_dv = dv(x0, func)
         f_ddv = ddv(x0, func)
 
