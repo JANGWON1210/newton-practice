@@ -36,4 +36,5 @@ if __name__ == "__main__":
     x_min, f_min = newton_mine(0, func)
     
     print(x_min, f_min)
+    print("version 2")
 
